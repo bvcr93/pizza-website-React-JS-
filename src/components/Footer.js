@@ -16,7 +16,7 @@ const Footer = () => {
   <LinkedInIcon/>
   <TwitterIcon/>
     </div>
-    <p> &copy; 2021 pedrotechpizza.com</p>
+    <p> &copy; 2021 darelbvcr.com</p>
   </div>
   )
 }
